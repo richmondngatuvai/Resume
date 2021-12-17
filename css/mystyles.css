@@ -1,0 +1,66 @@
+
+.tuff{
+    font-weight: bolder;
+    font-style: normal;
+    font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+
+  .smallf{
+      font-size: 12px;
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  }
+  
+  .bigf{
+      font-size: 18px;
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  }
+
+  .headshot{
+    width: 800px;
+    height: 750px;
+    float: right;
+  }
+
+  .floatright{
+    float: right;
+    padding-right: 24px;
+  }
+
+  .Tfont{
+    font-size: 18px;
+  font-family: "Raleway", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  }
+
+  .Theading{
+    display: block;
+    font-size: 4rem;
+    font-weight: 800;
+    padding-left: 625px;
+  }
+
+  .box{
+    width: 100%;
+    padding-left: 625px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .background{
+    background-image: url(../images/img/mountains.jpg);
+  }
+
+  .volcanic{
+    float: left;
+    width: 200;
+    height: auto;
+  }
+
+  .vid{
+    padding-left: 550px;
+  }
+
+
+
+
